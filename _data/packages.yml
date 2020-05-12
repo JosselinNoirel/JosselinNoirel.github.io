@@ -1,0 +1,11 @@
+- name: snpStats
+  install: Bioconductor
+  description: blabla
+  keywords: genomewide association genetics studies
+  category: Bioinformatics
+
+- name: gaston
+  install: TODO
+  description: blibli
+  keywords: genomewide association genetics studies
+  category: Bioinformatics

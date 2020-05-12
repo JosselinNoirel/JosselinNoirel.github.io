@@ -23,7 +23,10 @@
 
 ## Prettifying things
 
-* The [janitor](https://garthtarr.github.io/meatR/janitor.html) package
+* The [janitor](https://garthtarr.github.io/meatR/janitor.html)
+  package
+* The [broom](https://cran.r-project.org/package=broom) package allows
+  to display the results of certain operations as data frames
 
 ## Document preparation
 
@@ -34,9 +37,17 @@ R Markdown
 * [Gallery of documents prepared using R Markdown.](https://rmarkdown.rstudio.com/gallery.html)
 * Markdown Guide's [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * Yihui Xie, The [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+* Tufte, tint styles
+* Bookdown and the [msmbstyle](https://github.com/grimbough/msmbstyle)
+  style
+* Alison Hill's [Notes from the Advanced R Markdown Workshop](https://alison-bookdown.netlify.app)
 
 ### Preparing slides using R
 
 * Preparing slides with [xaringan](https://github.com/yihui/xaringan);
   check out the [documentation](https://slides.yihui.name/xaringan) and
   Alison Hill's [tutorial](https://arm.rbind.io/slides/xaringan.html)
+
+### Preparing dashboards using R
+
+* Alison Hill's [Meet flexdashboard](https://arm.rbind.io/slides/flexdashboard.html#1)
