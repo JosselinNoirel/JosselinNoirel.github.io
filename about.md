@@ -1,6 +1,6 @@
 ---
 created: "12-05-2020"
-updated: "02-06-2020"
+updated: "03-06-2020"
 layout: default
 title: "About me"
 lang: en
@@ -14,7 +14,8 @@ I'm on
 
 * [GitHub](https://github.com/JosselinNoirel)
 * [GitHub Gist](https://gist.github.com/JosselinNoirel)
-* [GitLab](https://gitlab.com/josselin.noirel).
+* [GitLab](https://gitlab.com/josselin.noirel)
+* [HackMD](https://hackmd.io/@jnoirel)
 
 For things not related to work, you can read me on [Twitter](https://twitter.com/JosselinNoirel/) or see some pictures on [flickr](https://www.flickr.com/photos/anagrams).
 
