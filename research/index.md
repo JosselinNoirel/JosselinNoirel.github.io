@@ -1,7 +1,7 @@
 ---
 created: "26-08-2021"
 updated: "26-08-2021"
-layout: home
+layout: default
 title: Research
 lang: en
 ---

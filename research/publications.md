@@ -1,8 +1,8 @@
 ---
 created: "26-08-2021"
 updated: "26-08-2021"
-layout: home
-title: TITLE
+layout: default
+title: Publications
 lang: en
 ---
 
