@@ -9,7 +9,7 @@ lang: en
 My research focuses on rigorously integrating genomic and other -omic
 data to gain a dependable insight into human diseases.
 
-* [publications](List of publications)
-* [supervision](Supervision)
-* [projects](Projects)
-* [side_projects](Side projects)
+* [List of publications](publications)
+* [Supervision](supervision)
+* [Projects](projects)
+* [Side projects](side_projects)
